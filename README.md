@@ -5,10 +5,11 @@
 ## 🛠️ Compétences
 
 - **Langages de programmation :**
-  - ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
-  - ![SQL](https://upload.wikimedia.org/wikipedia/commons/d/d5/SQL_logo.svg) SQL
-  - ![R](https://spdx.org/licenses/CC-BY-SA-4.0) R
-  - HTML, CSS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
 
 - **Bases de données :**
   - ![Oracle](https://upload.wikimedia.org/wikipedia/commons/4/46/Oracle_logo.svg) Oracle Database
