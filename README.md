@@ -17,17 +17,39 @@
 ![GitLab](https://img.shields.io/badge/GitLab-14.4-blue)
 ![Excel](https://img.shields.io/badge/Excel-365-yellow)
 
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.svg)
-![R](https://upload.wikimedia.org/wikipedia/commons/1/12/R_logo.svg)
-![Java](https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg)
-![Hadoop](https://upload.wikimedia.org/wikipedia/commons/3/39/Apache_Hadoop_logo.svg)
-![Machine Learning](https://upload.wikimedia.org/wikipedia/commons/2/2e/Artificial_Intelligence_Logo.svg)
-![Deep Learning](https://upload.wikimedia.org/wikipedia/commons/8/83/Deep_Learning_Logo.svg)
-![Big Data Administration](https://upload.wikimedia.org/wikipedia/commons/d/d5/Oracle_logo.svg)
-![VS Code](https://upload.wikimedia.org/wikipedia/commons/a/a4/Visual_Studio_Code_1.35_icon.svg)
-![Jira](https://upload.wikimedia.org/wikipedia/commons/c/c5/Jira_Logo.svg)
-![UML](https://upload.wikimedia.org/wikipedia/commons/a/a0/UML_logo.svg)
+## 🚀 Compétences
+
+- **Langages de programmation :**
+  - ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
+  - ![Java](https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg) Java
+  - ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/61/JavaScript-logo.png) JavaScript
+
+- **Frameworks et bibliothèques :**
+  - ![Django](https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg) Django
+  - ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) React
+
+- **Bases de données :**
+  - ![MySQL](https://upload.wikimedia.org/wikipedia/fr/thumb/b/b9/MySQL_logo.svg/1200px-MySQL_logo.svg.png) MySQL
+  - ![MongoDB](https://upload.wikimedia.org/wikipedia/commons/4/46/MongoDB_Logo.svg) MongoDB
+
+## 🌐 Liens vers mes réseaux sociaux
+
+- [LinkedIn](https://www.linkedin.com/in/votreprofil)
+- [GitHub](https://github.com/votreprofil)
+- [Twitter](https://twitter.com/votreprofil)
+
+## 📫 Comment me contacter
+
+Vous pouvez me contacter par email à [votre.email@example.com](mailto:votre.email@example.com).
+
+## 🎉 Projets récents
+
+- **Nom du projet 1**: Description du projet.
+- **Nom du projet 2**: Description du projet.
+
+---
+
+Merci de visiter mon profil GitHub! N'hésitez pas à me contacter si vous souhaitez collaborer ou en savoir plus sur mes projets.
 ![Django](https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg)
 ![SQL](https://upload.wikimedia.org/wikipedia/commons/d/d5/SQL_logo.svg)
 ![MongoDB](https://upload.wikimedia.org/wikipedia/commons/4/46/MongoDB_Logo.svg)
