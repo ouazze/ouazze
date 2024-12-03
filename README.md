@@ -17,45 +17,48 @@
 ![GitLab](https://img.shields.io/badge/GitLab-14.4-blue)
 ![Excel](https://img.shields.io/badge/Excel-365-yellow)
 
-## 🚀 Compétences
+# 👋 Bonjour, je suis Ouazze Mohamed
+
+Étudiant en Master (M2) spécialisé en **Big Data et Cloud Computing** à l'université Ibn Tofail, je suis actuellement à la recherche d'un stage de fin d'études (PFE) de 4 à 6 mois. Mon objectif est de mettre à profit mes compétences en **science des données**, **intelligence artificielle** et **administration de Big Data et Cloud** au sein d'une entreprise innovante et dynamique.
+
+## 🎓 Formation
+
+- **Master (M2) en Big Data et Cloud Computing**
+  - Université Ibn Tofail
+  - Compétences acquises : Gestion des données massives, Cloud Computing, Machine Learning, Deep Learning.
+
+## 🛠️ Compétences
 
 - **Langages de programmation :**
   - ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
-  - ![Java](https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg) Java
-  - ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/61/JavaScript-logo.png) JavaScript
-
-- **Frameworks et bibliothèques :**
-  - ![Django](https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg) Django
-  - ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) React
+  - ![SQL](https://upload.wikimedia.org/wikipedia/commons/d/d5/SQL_logo.svg) SQL
+  - ![R](https://upload.wikimedia.org/wikipedia/commons/1/12/R_logo.svg) R
+  - HTML, CSS
 
 - **Bases de données :**
-  - ![MySQL](https://upload.wikimedia.org/wikipedia/fr/thumb/b/b9/MySQL_logo.svg/1200px-MySQL_logo.svg.png) MySQL
+  - ![Oracle](https://upload.wikimedia.org/wikipedia/commons/4/46/Oracle_logo.svg) Oracle Database
   - ![MongoDB](https://upload.wikimedia.org/wikipedia/commons/4/46/MongoDB_Logo.svg) MongoDB
+
+- **Technologies Big Data :**
+  - ![Hadoop](https://upload.wikimedia.org/wikipedia/commons/3/39/Apache_Hadoop_logo.svg) Hadoop
+
+- **Outils et Frameworks :**
+  - GitHub, GitLab, Jira, Power BI
+
+- **Intelligence Artificielle :**
+  - Machine Learning, Deep Learning
 
 ## 🌐 Liens vers mes réseaux sociaux
 
-- [LinkedIn](https://www.linkedin.com/in/votreprofil)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-ouazze/)
 - [GitHub](https://github.com/votreprofil)
-- [Twitter](https://twitter.com/votreprofil)
 
 ## 📫 Comment me contacter
 
 Vous pouvez me contacter par email à [votre.email@example.com](mailto:votre.email@example.com).
 
-## 🎉 Projets récents
-
-- **Nom du projet 1**: Description du projet.
-- **Nom du projet 2**: Description du projet.
-
 ---
 
 Merci de visiter mon profil GitHub! N'hésitez pas à me contacter si vous souhaitez collaborer ou en savoir plus sur mes projets.
-![Django](https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg)
-![SQL](https://upload.wikimedia.org/wikipedia/commons/d/d5/SQL_logo.svg)
-![MongoDB](https://upload.wikimedia.org/wikipedia/commons/4/46/MongoDB_Logo.svg)
-![HTML](https://upload.wikimedia.org/wikipedia/commons/3/3d/HTML5_logo_and_wordmark.svg)
-![CSS](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg)
-![GitLab](https://upload.wikimedia.org/wikipedia/commons/d/d5/GitLab_Logo.svg)
-![Excel](https://upload.wikimedia.org/wikipedia/commons/5/5e/Microsoft_Excel_2013_logo.svg)
 
 
