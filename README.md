@@ -7,7 +7,7 @@
 - **Langages de programmation :**
   - ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
   - ![SQL](https://upload.wikimedia.org/wikipedia/commons/d/d5/SQL_logo.svg) SQL
-  - ![R](https://upload.wikimedia.org/wikipedia/commons/1/12/R_logo.svg) R
+  - ![R](https://spdx.org/licenses/CC-BY-SA-4.0) R
   - HTML, CSS
 
 - **Bases de données :**
