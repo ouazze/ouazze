@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/Python-3.9-blue) 
+![Python](https://img.shields.io/badge/Python-3.11-blue) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) 
 ![R](https://img.shields.io/badge/R-4.0.5-blue) 
 ![Java](https://img.shields.io/badge/Java-11-blue) 
