@@ -6,7 +6,7 @@
 
 - **Langages de programmation :**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R]([https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white](https://commons.wikimedia.org/wiki/File:R_logo.svg))
+![R](https://commons.wikimedia.org/wiki/File:R_logo.svg)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
