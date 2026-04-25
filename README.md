@@ -1,134 +1,182 @@
-[![MasterHead](https://camo.githubusercontent.com/c4a36e4d785abf0d18994460af182ce55df8155200dfe51bb0c9ea3b00cf194c/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://github.com/ouazze)
+<!--
+╔══════════════════════════════════════════════════════════════════╗
+║  OUAZZE MOHAMED — GitHub Profile README                        ║
+║  IA & Vision par Ordinateur | Systèmes Multi-Agents            ║
+╚══════════════════════════════════════════════════════════════════╝
+-->
 
-<h1 align="center">Hi, I'm <span style="color:#00BFFF">Ouazze Mohamed</span></h1>
-<h3 align="center"> Data Scientist | AI Engineer | Big Data Enthusiast</h3>
-
-<img align="right" alt="Coding" width="420" src="https://i.pinimg.com/originals/45/00/7a/45007aae18af68200ec3f8c460e79d99.gif">
-
----
-
-##  <span style="color:#00BFFF">About Me</span>
-
-*  Passionate about **Artificial Intelligence & Data Science**
-*  Specialized in **Machine Learning, Deep Learning & Computer Vision**
-*  Strong focus on **Energy Forecasting & Time Series Analysis**
-*  Building **AI solutions for real-world impact**
-*  Constantly learning & pushing my limits in AI
-
----
-
-##  <span style="color:#FF8C00">Current Focus</span>
-
-*  Deep Learning (**LSTM, Transformers, TFT**)
-*  Computer Vision (**OpenCV, CNNs, Image Processing**)
-*  Energy Demand Forecasting
-*  Generative AI & LLMs
-*  Big Data (**Hadoop, Spark**)
-
----
-
-##  <span style="color:#32CD32">Featured Projects</span>
-
-*  **Energy Forecasting (LSTM & TFT)**
-*  **Clustering & PCA Analysis (K-Means)**
-*  **Computer Vision Projects (Image Detection & Processing)**
-*  **Weather Impact on Energy Demand**
-
- More advanced AI projects coming soon...
-
----
-
-##  <span style="color:#FF69B4">Ask Me About</span>
-
-* Machine Learning & Deep Learning
-* Computer Vision 
-* Time Series Forecasting
-* Generative AI
-* Big Data & Data Engineering
-
----
-
-##  <span style="color:#FFD700">Contact Me</span>
-
-*  Email: **[ouazzemohamed194@gmail.com](mailto:ouazzemohamed194@gmail.com)**
-*  LinkedIn: [mohamed-ouazze](https://linkedin.com/in/mohamed-ouazze)
-
----
-
-##  Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/mohamed-ouazze" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-</p>
-
----
-
-##  <span style="color:#00FFFF">Tech Stack</span>
-
-###  Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,js" />
-</p>
-
-###  Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" />
-</p>
-
-###  AI & Deep Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-###  Computer Vision
-
-<p>
-<img src="https://skillicons.dev/icons?i=opencv" />
-</p>
-
-###  Big Data & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,gcp" />
-</p>
-
-###  Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
----
-
-##  <span style="color:#FF4500">GitHub Stats</span>
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:00BFFF&height=230&section=header&text=Ouazze%20Mohamed&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=IA%20%7C%20Vision%20par%20Ordinateur%20%7C%20Systèmes%20Multi-Agents&descSize=18&descAlignY=55&animation=fadeIn)](https://github.com/ouazze)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ouazze&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouazze&layout=compact&theme=radical" />
+  <a href="mailto:ouazzemohamed194@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mohamed-ouazze"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ouazze"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ouazze&style=for-the-badge&color=00BFFF&label=VISITEURS" />
+</p>
+
+---
+
+## 🧠 Résumé
+
+Chercheur en **Intelligence Artificielle** et **Vision par Ordinateur** avec une expertise en apprentissage profond (LSTM, CNN, Transformers), systèmes multi-agents et optimisation à grande échelle. Actuellement Research Assistant à l'**Africa Business School (UM6P)**, je développe des modèles d'optimisation mathématique (MILP) et de prévision énergétique sur des horizons de 30 ans.
+
+Je recherche un **poste de doctorat** pour approfondir mes travaux sur les systèmes d'IA adaptatifs, distribués et scalables.
+
+---
+
+## 🛠️ Compétences
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Intelligence Artificielle
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+`Machine Learning` · `Deep Learning` · `LSTM` · `CNN` · `Transformers` · `Séries Temporelles`
+
+### Vision par Ordinateur
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+`YOLOv8` · `Multi-Object Tracking` · `SAM (Segment Anything)` · `Vision 3D` · `Zed SDK`
+
+</td>
+<td width="50%" valign="top">
+
+### Optimisation & Modélisation
+![Gurobi](https://img.shields.io/badge/Gurobi-EE3524?style=flat-square&logoColor=white)
+
+`MILP` · `Modélisation Mathématique` · `Programmation par Contraintes` · `Planification Énergétique`
+
+### Systèmes Multi-Agents
+`CrewAI` · `Agents Autonomes` · `Systèmes Distribués` · `Modèles de Coordination`
+
+### Données & Outils
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+`Hadoop` · `NoSQL` · `Oracle DB` · `Power BI`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Projets Clés
+
+### 🔋 Optimisation Énergétique Long Terme — *UM6P / Africa Business School*
+Modèle MILP pour la planification de systèmes énergétiques sur 30 ans, intégrant variables d'investissement et contraintes CO₂. Prévision de la demande via LSTM, GRU, CNN-LSTM et Random Forest.
+
+`Python` · `Gurobi` · `MILP` · `LSTM` · `GRU` · `CNN-LSTM` · `Random Forest`
+
+---
+
+### 📹 Suivi Multi-Caméra & Sécurité Intelligente — *Analytics Lab, UM6P*
+Pipeline de surveillance temps réel : détection et suivi d'objets sur flux multi-caméra avec YOLOv8, OSNET et Transformers.
+
+`YOLOv8` · `OSNET` · `OpenCV` · `TensorFlow` · `Traitement Temps Réel`
+
+---
+
+### 📦 Extraction 3D de Dimensions de Colis
+Système de mesure 3D via caméra Zed 2i : détection (YOLOv8) + segmentation pixel-perfect (SAM) pour extraction précise des dimensions.
+
+`Zed SDK` · `YOLOv8` · `SAM` · `Vision 3D` · `Reconstruction 3D`
+
+---
+
+### 🤖 Chatbot Médical IA — *Université Ibn Tofaïl*
+Chatbot génératif médical basé sur Llama2, avec interface Chainlit et base vectorielle pour la recherche sémantique.
+
+`Llama2` · `Chainlit` · `LangChain` · `Base de Données Vectorielle`
+
+---
+
+### 🤟 Détection de la Langue des Signes Marocaine — *Projet de Fin d'Études*
+Modèle CNN temps réel pour la reconnaissance de la langue des signes marocaine. Création de dataset personnalisé et application mobile pour la communauté sourde.
+
+`TensorFlow` · `OpenCV` · `CNN` · `Développement Mobile`
+
+---
+
+### 🛡️ Détection d'Attaques IoT par Système Multi-Agents
+Système multi-agents (CrewAI) coordonnant 5+ modèles de détection spécialisés sur 3 types d'attaques IoT.
+
+`CrewAI` · `Machine Learning` · `Streamlit` · `GPU`
+
+---
+
+## 💼 Expérience
+
+| Période | Poste | Organisation |
+|---|---|---|
+| Jan. 2026 — Présent | **Research Assistant** — Optimisation énergétique & ML | Africa Business School (UM6P-Rabat, SOLA) |
+| Mai — Déc. 2025 | **Chercheur en Vision par Ordinateur** — Suivi multi-caméra | Analytics Lab, UM6P Rabat |
+| 2025 | **Projet Vision par Ordinateur** — Extraction 3D de dimensions | Projet indépendant |
+
+---
+
+## 🎓 Formation
+
+| Diplôme | Établissement | Année |
+|---|---|---|
+| Master Big Data & Cloud Computing | Université Ibn Tofaïl | 2023 — 2025 |
+| Licence Sciences Mathématiques & Informatique | Faculté Pluridisciplinaire, Ouarzazate | — |
+| Baccalauréat Sciences de la Vie et de la Terre | Lycée Mohamed VI, Alnif | 2018 — 2019 |
+
+---
+
+## 📜 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/IBM-Python%20for%20Data%20Science%2C%20AI%20%26%20Dev-0530AD?style=flat-square&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM-Data%20Analysis%20with%20Python-0530AD?style=flat-square&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/365%20DataScience-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-Generative%20AI%20Learning%20Plan-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+</p>
+
+---
+
+## 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ouazze&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouazze&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF" width="40%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ouazze&theme=tokyonight&hide_border=true&background=0d1117&ring=00BFFF&fire=FF8C00&currStreakLabel=00BFFF" width="60%" />
+</p>
+
+---
+
+## 🌐 Langues
+
+🇲🇦 Arabe (natif) · 🇬🇧 Anglais (intermédiaire) · 🇫🇷 Français (intermédiaire)
+
+---
+
+## 📬 Contact
+
+<p align="center">
+  <a href="mailto:ouazzemohamed194@gmail.com"><img src="https://img.shields.io/badge/ouazzemohamed194@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mohamed-ouazze"><img src="https://img.shields.io/badge/mohamed--ouazze-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="tel:+212674647667"><img src="https://img.shields.io/badge/+212%20674%20647%20667-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <b>⭐ Si mes projets vous intéressent, n'hésitez pas à star mes dépôts et à me contacter pour collaborer !</b>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ouazze&theme=radical" />
+  <i>Ouvert aux opportunités de doctorat en IA, vision par ordinateur et systèmes intelligents.</i>
 </p>
 
----
-
-##  <span style="color:#8A2BE2">Vision</span>
-
-> "Transforming data into intelligent systems that solve real-world challenges."
-
----
-
-##  <span style="color:#FF0000">Fun Fact</span>
-
-* I love turning **complex data into powerful AI models** 
-* Always exploring new technologies in AI & Big Data
-
----
-
- **If you like my work, don't forget to star my repositories!**
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:1a1b27,100:0d1117&height=120&section=footer)](https://github.com/ouazze)
