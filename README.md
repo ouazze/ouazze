@@ -116,7 +116,7 @@ Système multi-agents (CrewAI) coordonnant 5+ modèles de détection spécialis�
 
 | Période | Poste | Organisation |
 |---|---|---|
-| Jan. 2026 — Présent | **Research Assistant** — Optimisation énergétique & ML | Africa Business School (UM6P-Rabat, SOLA) |
+| Jan. 2026 — Présent | **AI researcher** — Optimisation énergétique & ML & DL | Africa Business School (UM6P-Rabat, SOLA) |
 | Mai — Déc. 2025 | **Chercheur en Vision par Ordinateur** — Suivi multi-caméra | Analytics Lab, UM6P Rabat |
 | 2025 | **Projet Vision par Ordinateur** — Extraction 3D de dimensions | Projet indépendant |
 
