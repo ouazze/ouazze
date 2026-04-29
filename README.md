@@ -18,9 +18,7 @@
 
 ## 🧠 Résumé
 
-Chercheur en **Intelligence Artificielle** et **Vision par Ordinateur** avec une expertise en apprentissage profond (LSTM, CNN, Transformers), systèmes multi-agents et optimisation à grande échelle. Actuellement Research Assistant à l'**Africa Business School (UM6P)**, je développe des modèles d'optimisation mathématique (MILP) et de prévision énergétique sur des horizons de 30 ans.
-
-Je recherche un **poste de doctorat** pour approfondir mes travaux sur les systèmes d'IA adaptatifs, distribués et scalables.
+Chercheur en **Intelligence Artificielle** et **Vision par Ordinateur** avec une expertise en apprentissage profond (LSTM, CNN, Transformers), systèmes multi-agents et optimisation à grande échelle. Actuellement Researche à l'**Africa Business School (UM6P)**, je développe des modèles d'optimisation mathématique (MILP) et de prévision énergétique sur des horizons de 30 ans.
 
 ---
 
